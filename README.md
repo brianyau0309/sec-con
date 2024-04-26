@@ -5,12 +5,12 @@
 Converting the number of seconds to string in defferent formats.
 Supported formats:
 
-- `HH:MM:SS`
-- `HH:MM`
-- `MM:SS`
-- `HH`
-- `MM`
-- `SS`
+- `H:M:S`
+- `H:M`
+- `M:S`
+- `H`
+- `M`
+- `S`
 
 ## Installation
 
