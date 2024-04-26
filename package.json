@@ -1,8 +1,8 @@
 {
   "name": "sec-con",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Converting the number of second to string in different format",
+  "main": "sec-con.js",
   "scripts": {
     "test": "jest"
   },
