@@ -1,12 +1,16 @@
 {
   "name": "sec-con",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converting the number of second to string in different format",
   "main": "sec-con.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["second", "time", "convert"],
+  "keywords": [
+    "second",
+    "time",
+    "convert"
+  ],
   "author": "Brian Yau <brian@brianyau.com>",
   "homepage": "https://github.com/brianyau0309/sec-con",
   "license": "ISC",
