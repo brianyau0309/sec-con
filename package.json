@@ -13,7 +13,7 @@
   ],
   "author": "Brian Yau <brian@brianyau.com>",
   "homepage": "https://github.com/brianyau0309/sec-con",
-  "license": "ISC",
+  "license": "GPLV3",
   "devDependencies": {
     "jest": "^29.7.0"
   }
