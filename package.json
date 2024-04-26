@@ -1,6 +1,6 @@
 {
   "name": "sec-con",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "description": "Converting the number of second to string in different format",
   "main": "sec-con.js",
   "scripts": {
