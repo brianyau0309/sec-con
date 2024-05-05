@@ -88,9 +88,7 @@ class SecCon {
         );
       case "H:M":
         [hours, minutes] = string.split(":");
-        return (
-          this.#parseString(hours, "H") + this.#parseString(minutes, "M")
-        );
+        return this.#parseString(hours, "H") + this.#parseString(minutes, "M");
       case "M:S":
         [minutes, seconds] = string.split(":");
         return (
