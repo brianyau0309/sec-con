@@ -7,7 +7,8 @@
  */
 class SecCon {
   #sec = 0;
-  #validFormat = ["H:M:S", "H:M", "M:S", "H", "M", "S"];
+  #validFormat = ["H:M:S",
+    "H:M", "M:S", "H", "M", "S"];
 
   /**
    * Create a new instance of SecCon by passing a number or a string
